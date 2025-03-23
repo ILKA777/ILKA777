@@ -30,13 +30,13 @@
 I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
 
-- 👨‍🎓: I am studying at the Higher School of Economics at the Faculty of Computer Science in the program “Software Engineering”.
+- 👨‍🎓 I am studying at the Higher School of Economics at the Faculty of Computer Science in the program “Software Engineering”.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my spare time, I read articles about technology and attend various offline and online conferences..
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IL_K_A-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IL_K_A)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IL_K_A-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IL_K_A)
 
 ---
 
