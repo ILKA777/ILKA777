@@ -26,4 +26,43 @@
 
 
 
+### : About Me :
+I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my spare time, I read articles about technology and attend various offline and online conferences..
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IL_K_A-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IL_K_A)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+   <img src="https://img.icons8.com/?size=200&id=_BTyk4vBumjx&format=png&color=000000" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+    <img src="https://developer.apple.com/assets/elements/icons/app-store-connect/app-store-connect-128x128_2x.png" title="AppStoreConnect"  alt="AppStoreConnect" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jim-nielsen.com/macos/512/testflight-2023-05-19.png?rf=1024" title="TestFlight" alt="TestFlight" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7774181?s=160&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CAj4y06wVXjdD9QA7O-8eJXJ6prEAMZc2Q&s" title="SPM" alt="SPM " width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaercl1HqYA7kq_4kw0ZhKyUS4JRGw_8c-Tw&s"  title="CocoaPods" alt="CocoaPods" width="120" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ILKA777&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILKA777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
