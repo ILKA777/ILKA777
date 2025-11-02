@@ -30,7 +30,7 @@
 I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
 
-- 👨‍🎓 I am studying at the Higher School of Economics at the Faculty of Computer Science in the program “Software Engineering”.
+- 👨‍🎓 I hold a Bachelor's degree in Software Engineering from the Faculty of Computer Science at the Higher School of Economics (HSE University). I am currently pursuing a Master's degree in Applied Artificial Intelligence at Ural Federal University (UrFU).
 
 - :seedling: Exploring Technical Content Writing.
 
