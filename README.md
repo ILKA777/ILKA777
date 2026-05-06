@@ -63,6 +63,7 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </table>
 
 ### :fire: My Stats :
-![GitHub Streak](https://git.io/streak-stats)
 
-![Top Langs](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ILKA777&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILKA777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
