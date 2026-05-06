@@ -26,7 +26,7 @@
 
 
 
-### About Me :
+### : About Me :
 I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
 
@@ -61,3 +61,8 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></td>
   </tr>
 </table>
+
+### :fire: My Stats :
+![GitHub Streak](https://git.io/streak-stats)
+
+![Top Langs](https://github.com/anuraghazra/github-readme-stats)
